@@ -29,6 +29,7 @@ export default Server(() => {
     app.get('/health', (req, res) => {
         res.send().statusCode = 204;
     });
+    // Enlace para log in de la pagina pokemon
     app.get('/pokemon', (req, res) => {
         res.send().statusCode = 204;
     });
