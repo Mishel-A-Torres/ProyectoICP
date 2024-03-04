@@ -24,7 +24,8 @@ NEXT_PUBLIC_INTERNET_IDENTITY_URL=http://INTERNET_IDENTITY_CANISTER_ID.localshot
 # INTRODUCE EN TU TERMINAL: 
 dfx deploy
 
-Modificaciones: En la carpeta de pokemon y el archivo "pikachu" añadimos un boton, "login" y al darle click se direcciona para iniciar sesion con internet identity, al mismo tiempo se puede crear una nueva identidad, estas identidades tratamos que se guardaran en backend.
+# Modificaciones
+En la carpeta de pokemon y el archivo "pikachu" añadimos un boton, "login" y al darle click se direcciona para iniciar sesion con internet identity, al mismo tiempo se puede crear una nueva identidad, estas identidades tratamos que se guardaran en backend.
 En el "index" añadimos el vinculo para que esta accion se realice.
 
 
